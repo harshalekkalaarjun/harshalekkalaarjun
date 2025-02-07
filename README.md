@@ -4,7 +4,12 @@
 - 💞️ I’m looking to collaborate on AI-related 
 - 📫 How to reach me LEKKALA HARSHA VARDHAN NAIDU
 - 😄 Pronouns: chintu
-- ⚡ Fun fact: i failed in love 
+- ⚡ Fun fact: I failed in love 
+-- python developer 
+-- embedded system and iot developer and tester 
+-- web development 
+-- android developer 
+
 
 <!---
 harshalekkalaarjun/harshalekkalaarjun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
